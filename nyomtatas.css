@@ -1,14 +1,15 @@
-body{
+body {
   color: #293647;
 }
 
 .bg-fej {
+  background-image: url(drukletters.jpg);
   background-position: center;
   height: 250px;
   padding-top: 75px;
 }
 
-.bg-fej h1{
+.bg-fej h1 {
   color: white;
   font-size: 500%;
   text-transform: uppercase;
@@ -16,7 +17,7 @@ body{
   font-weight: bold;
 }
 
-.container{
+.container {
   margin-bottom: 25px;
 }
 
@@ -24,7 +25,7 @@ body{
   background-color: #C5C599;
 }
 
-h3{
+h3 {
   margin: 25px 0px;
 }
 
@@ -38,7 +39,14 @@ a {
   margin: 20px auto;
 }
 
-#valasz{
-  visibility:hidden;
+#valasz {
+  visibility: hidden;
 }
 
+#szelesseg {
+  margin: 0 auto 15px auto ;
+}
+
+#magassag {
+  margin: 0 auto 15px auto ;
+}
